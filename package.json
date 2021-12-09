@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gndx/platzi-store.git"
+    "url": "git+https://github.com/kevinr2/platzi-store-jest.git"
   },
   "keywords": [
     "React",
